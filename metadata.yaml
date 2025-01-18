@@ -1,0 +1,42 @@
+_repo: Du-Cameroun-au-Caire-par-le-desert-de-Libye-b-chasses-au-Tchad_74927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruneau de Laborie
+    aliases:
+    - Laborie, Émile Louis Bruno Bruneau de
+    - Laborie, Emile Louis Bruno Bruneau de
+    - Laborie, Émile-Louis-Bruno Bruneau de
+    - De Laborie, Émile-Louis-Bruno Bruneau
+    - Laborie, Bruneau de
+    - Laborie, Émile Bruneau de
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '57733'
+    url: http://www.gutenberg.org/2009/agents/57733
+    wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_Bruneau_de_Laborie
+description: ''
+gutenberg_issued: '2024-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74927'
+  lccn: '25000904'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.749574
+pgterms:marc905: 20241210233532bruneaudel
+pgterms:marc906: '1924'
+pgterms:marc907: FR
+production_note: Galo Flordelis
+publication_note: '  $aParis :$bErnest Flammarion, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cameroon -- Description and travel'
+- !lcsh 'Libyan Desert'
+- !lcsh 'Hunting -- Chad'
+- !lcsh 'Chad'
+- !lcc 'DT'
+- GITenberg
+title: 'Du Cameroun au Caire par le désert de Libye : $b chasses au Tchad'
+url: http://www.gutenberg.org/ebooks/74927
