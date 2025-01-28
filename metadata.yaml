@@ -1,5 +1,8 @@
 _repo: Du-Cameroun-au-Caire-par-le-desert-de-Libye-b-chasses-au-Tchad_74927
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74927-h/images/cover.jpg
 creator:
   author:
     agent_name: Bruneau de Laborie
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57733
     wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_Bruneau_de_Laborie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74927#Du-Cameroun-au-Caire-par-le-desert-de-Libye-b-chasses-au-Tchad
 gutenberg_issued: '2024-12-18'
 gutenberg_type: Text
 identifiers:
